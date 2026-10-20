@@ -1,4 +1,4 @@
-# Decentralized & Tamper-Proof FIR Management System (Web3 Police Portal)
+# Decentralized & Tamper-Proof FIR  (Web3 Police Portal)
 
 Hybrid architecture: readable FIR data lives in **PostgreSQL** (off-chain); only the **SHA-256 hash**, timestamp and officer wallet go to an **Ethereum smart contract** (on-chain). Anyone can verify a FIR by FIR ID or by scanning the QR on the receipt.
 
